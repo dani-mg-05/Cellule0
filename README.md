@@ -49,7 +49,7 @@ Al introducir el usuario (ihatetetris42), se nos muestran los dominios y los usu
 
 ### ex01
 <p align="justify">
-Ahora, nos solicitan encontrar al verdadero dueño de la cuenta debido a que la cuenta parece falsa. Para ello, podemos fijarnos en los usuarios que sigue la cuenta, donde nos encontramos una única cuenta.
+Ahora, nos solicitan encontrar al verdadero dueño de la cuenta debido a que esta parece falsa. Para ello, podemos fijarnos en los usuarios que sigue la cuenta, donde nos encontramos una única cuenta.
 </p>
 
 ![image](https://github.com/dani-mg-05/Cellule0/assets/79267920/54ce31e5-33bb-46d1-ad6c-d1cbdb43aab3)
